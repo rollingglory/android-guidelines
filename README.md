@@ -1,6 +1,6 @@
 # Android Guidelines
 
-Code guidelines we use at [Rolling Glory](http://rollingglory.com/) when developing for __Android__.
+Code guidelines we use at [Rolling Glory](http://rollingglory.com/) when developing for __Android__. This Android guideline is a modification from [Ribot Android Guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) with some adjustments.
 
 * #### [Naming Conventions](naming_conventions.md)
   Internal conventions for file names, class names, and variable names in the project 
